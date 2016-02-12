@@ -2,8 +2,9 @@
 // @name        42 - Intra
 // @namespace   https://greasyfork.org/fr/users/11667-aymeric-maitre
 // @description Ajoute une playlist youtube sur l'intra de l'ecole 42 https://profile.intra.42.fr/
-// @include     https://profile.intra.42.fr/*
-// @version     2
+// @include     https://profile.intra.42.fr/
+// @include     https://profile.intra.42.fr/#
+// @version     2.1
 // @icon        https://profile.intra.42.fr/assets/42_logo_black-684989d43d629b3c0ff6fd7e1157ee04db9bb7a73fba8ec4e01543d650a1c607.png
 // @grant       none
 // ==/UserScript==
